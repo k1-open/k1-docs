@@ -1,0 +1,2 @@
+b6cd9f7d40a371248bd122ce4032f0ef0b5f5733674b439abc213ae7b53f4ee3  product/K1 产品规格-20261029.pdf
+3a99ee2bf6b815cce4e51e5d218a1304ee6f092f06ed1efc3d00753cb0fc6b6f  testing/K1_整机测试标准.pdf
